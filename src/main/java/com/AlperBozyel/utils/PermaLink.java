@@ -1,5 +1,5 @@
 package com.AlperBozyel.utils;
 
 public class PermaLink {
-    //Github: 
+    //Github: https://github.com/AlperBozyel/SpringProject
 }
