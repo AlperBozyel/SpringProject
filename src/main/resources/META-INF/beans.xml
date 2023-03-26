@@ -4,4 +4,10 @@
        xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd"
        version="3.0"
        bean-discovery-mode="all">
+
+       <alternatives>
+           <class>com.AlperBozyel.Alternative.PatronCIO</class>
+            <!--   <class>com.AlperBozyel.Alternative.PatronIT</class  -->
+       </alternatives>
+
 </beans>
