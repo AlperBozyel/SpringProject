@@ -10,4 +10,7 @@
             <!--   <class>com.AlperBozyel.Alternative.PatronIT</class  -->
        </alternatives>
 
+        <interceptors>
+            <class>com.AlperBozyel.aop.interceptor.InterceptorMain</class>
+        </interceptors>
 </beans>
